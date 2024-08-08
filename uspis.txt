@@ -1,0 +1,13 @@
+caj
+=================================
+Firme
+gazda Pera Grk 
+naziv Firma1 Firma2
+oblast meso cement 
+=================================
+Zaposleni
+ime Mitar Jovan Pera mateja etar 
+prezime Miric Jovic Kostic rista Petrovic 
+pozicija zaposleni cistac zubar sef toca 
+jmbg 443 666 999 1332 23 
+=================================
